@@ -1,10 +1,3 @@
-Olá, eu sou a Anna Clara Ruggeri
-
-- 🔭 Hoje estudo engenharia de software na FIAP
-- 🌱 Foco em front-end
-- 😄 Pronouns: ela/dela
-
-
 
 
 ---
