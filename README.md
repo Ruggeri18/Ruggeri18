@@ -1,4 +1,4 @@
-
+## Oie! Eu sou a Anna Clara, estudante de Engenharia de Software na FIAP, e no momento estou focada em desenvolvimento Front-end.
 
 ---
 
