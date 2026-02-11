@@ -82,6 +82,7 @@
 
 <div> 
   <a 
+      width="80px"
       href="https://www.linkedin.com/in/anna-clara-ruggeri-301559353/" 
       target="_blank"
   >
