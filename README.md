@@ -3,7 +3,6 @@
     bottom="50px" 
     src="https://github.com/user-attachments/assets/d50e0c9c-1dc2-454b-a638-01f8fe2633bb"
 />
-
 <br>
 <br>
 
@@ -91,5 +90,12 @@
     >
   </a> 
 </div>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
 
 </p>
